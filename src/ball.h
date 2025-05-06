@@ -1,16 +1,19 @@
 #pragma once
 
+
 class Ball
 {
 public:
-    Ball();
+
+    Ball(float x, float y);
     void Update();
     void Draw();
+    void resetBall();
 
-private:
-    int x;
-    int y;
-    int speedX;
-    int speedY;
+    float x,y;
+    float speedX;
+    float speedY;
     int radius;
+    int player_score;
+    int CPU_score; 
 };

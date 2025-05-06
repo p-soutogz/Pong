@@ -18,7 +18,7 @@ The template now uses folders for better organizion of the files. So, all the so
 </p>
 
 <p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
+🎥 <a href="https://wwyoutubew..com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
 </p>
 
 <br>
